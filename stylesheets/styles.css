@@ -142,6 +142,9 @@ strong {
   color:#222;
   font-weight:700;
 }
+small {
+  padding: 5px;
+}
 
 /*header ul li + li {
   width:88px;
