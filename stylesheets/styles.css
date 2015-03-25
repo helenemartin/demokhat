@@ -166,7 +166,7 @@ section {
   padding-bottom:50px;
 }
 
-iframe { position: absolute; top: 0; left: 0; width: 50%; height: 50%; }
+iframe {top: 20%; left: 60%; width: 50%; height: 50%; }
 
 small {
   font-size:11px;
