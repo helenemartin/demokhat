@@ -121,7 +121,13 @@ header nav {
   width:270px;
 }
 
+header nav a small {
+  font-size:11px;
+  color:#39c;
+  margin-top:-0.6em;
+  display:block;
 
+}
 
 /*header li {
   width:89px;
